@@ -1,0 +1,9 @@
+{
+    "database": {
+      "url": "://admin:123456@localhost:25432/cleango"      
+    },
+    "server": {
+      "port": "3000"
+    }
+  }
+
